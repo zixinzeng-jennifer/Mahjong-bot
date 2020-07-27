@@ -12,3 +12,5 @@ Enumerative algorithm mainly based on shanten and useful tiles.
 Targets the following mahjong hands: thirteen-orphans,seven-pairs, yisesantongshun, yisesanjiegao, yisesanbugao,qing-long,sanse-shuanglonghui,honors-and-knitted-tiles, knitted-straight, sanfengke, hua-long,sansesantongshun, sansesanjiegao, shuangjianke,sansesanbugao, pengpenghu.
 
 Able to CHI, PENG, GANG (anGANG and buGANG) correctly.
+
+This Mahjong bot participates in a Mahjong race against bots written by other teams, and eventually ranks 18 out of 192 bots (scores 89.03, 91.04, 91.02 in 3 rounds of the competition, respectively). See https://www.botzone.org.cn/group/5e7f312ed52bcf42b8f18ca4#5ed09555a965b9060619255f for details.
