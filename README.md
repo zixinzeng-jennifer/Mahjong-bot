@@ -1,5 +1,5 @@
 # Mahjong-bot-C-
-Class project of Programming Practice in C++(2020 Spring), written by a team of 3 members.
+Class project of Programming Practice in C++(2020 Spring, Peking University), written by a team of 3 members.
 
 Follows rules of Chinese-Standard-Mahjong, see https://wiki.botzone.org.cn/index.php?title=Chinese-Standard-Mahjong for rules.
 
