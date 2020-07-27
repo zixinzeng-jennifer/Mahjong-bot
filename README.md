@@ -7,7 +7,7 @@ Can be run online directly: https://www.botzone.org.cn/.
 
 See https://github.com/ailab-pku/Chinese-Standard-Mahjong/tree/master/fan-calculator-usage for the ChineseOfficialMahjongHelper(written by our TA) we used in this project.
 
-Enumerative algorithm mainly based on shanten and useful tiles.
+Enumerative algorithm mainly based on shanten and useful tiles: we choose the tile which will most likely result in the least shanten and as many useful tiles as possible.
 
 Targets the following mahjong hands: thirteen-orphans,seven-pairs, yisesantongshun, yisesanjiegao, yisesanbugao,qing-long,sanse-shuanglonghui,honors-and-knitted-tiles, knitted-straight, sanfengke, hua-long,sansesantongshun, sansesanjiegao, shuangjianke,sansesanbugao, pengpenghu.
 
